@@ -1,0 +1,24 @@
+This KPI is called Inventory Turnover
+Also called 
+	- inventory turns
+	- stock turns
+	- days on hand
+	- stock coverage
+	
+#Inventory Turns Cycle Formula(Stock Cycle) :
+	= ( COGS / Average inventory )
+	
+	= Inventory Turns is no. of times company restocks its complete inventory per year
+
+#Inventory Turnover Formula(Also called as DIO or Inventory Days/Weeks or Stock Turn)
+	= (Avg. Inventory / COGS) * 365 ->days
+	
+	= = (Avg. Inventory / COGS) * 52 ->weeks
+	
+	DIO is no. of days/weeks company takes to sell its inventory on average.
+
+Note : Be careful with seasonality while monitoring the KPIs
+
+#Inventory Coverage Formula
+	= (Current avg. inventory value / Forecast Value) * Period
+	

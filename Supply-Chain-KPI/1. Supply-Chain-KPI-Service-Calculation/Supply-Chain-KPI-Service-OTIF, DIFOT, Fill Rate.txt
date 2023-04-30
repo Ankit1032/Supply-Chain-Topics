@@ -1,0 +1,79 @@
+
+#Profitable Supply Chain
+1. Service : You need to have great service level for your customers.
+
+2. Inventory (Cash) : You need to put as minimum cash as possible. It always a trade-off between amazing customer service and InventoryCash.
+
+3. Costs : You need to minimize the cost of the supply chain.
+
+#How to track Service in Supply Chain
+
+In Supply Chain, we track Service all around the Supply Chain from component factory to production to freight company(shipping) to warehouse to transport truck to retail.
+
+- Track Quantity / Volumne
+- Quality
+- Lead Time
+
+#Difference between Service Rate and Availability Rate
+
+#COCA COLA Service Example
+- The Coca-Cola factory would send(ship+transport) its product to Walmart. Now to track the service between the Coca Cola Factory and Walmart, we will track below 3 things.
+1. Quantities
+2. Quality
+3. Lead Time
+This above mentioned metrics comes under a KPI called SIFOT(Supply in Full On Time).
+So for example if Walmart asked for 100,000 Coca-Cola bottles and Coca-Cola only provided 90,000 with right quality and lead time, then the SIFOT between Coca-Cola and Walmart DC(Distribution Center) would be:
+=90,000/100,000
+=90%
+
+-Now suppose Walmart-Retail-Store wants 1000 bottles of Coca-Cola from its Walmart DC.
+So we will see the same things:
+1. Quantities
+2. Quality
+3. Lead Time
+Even those the things are same, instead of SIFOT , we would call it DIFOT(Delivery in Full on Time) or OTIF(On Time in Full)
+So, if Walmart asks for 1000 qty and its DC provides 800 with right quality and lead time then then DIFOT is:
+= 800/1000
+= 80%
+
+#Availability Rate:
+-If a single unit of that particular product is available then Availability Rate for that particular product is 100% else 0%.
+
+Product	 Stock	Availability-Rate
+Product1  10	100%
+Product2  0		0%
+Product3  2		100%
+Product4  3		100%
+Product5  4		100%
+Product6  0		0%
+
+So the Total Availability Rate is : 6/2 = 66.6%
+#Above we selected 6 specific products to find their availability rate.
+#Remember, even thought the stock might be more than 0, it could be that all the stocks are already bought or ordered by the customers and tose products are just waiting to be picked up from the DC or warehouse. So be carefull while calculating availability rate.
+
+#Always make sure to discuss with board of directors if you want to track quantity or weights or volumn as this metric can differ from industry to industry.
+
+#DIF (Delivery In Full)
+Total of Quantity % of Each product
+-Quantity %  :  = Qty Supplied/ Qty Ordered
+
+Note : Refer the Excel File for DOQ, DOT and DIFOT
+
+#5 Mistakes to avoid while tracking KPIs and Service
+a. Take care of your data actually
+	-Could be you don't have the right list of product or product codes.
+	-Correct Active/Discontinued product details
+	-Right Inventory accuracy needed
+	-Make sure you have enough historical data to track and improve performance.
+
+b. Never target for 100% Service Rate or Availability Rate as it is not profitable for the company.
+
+c. Calculate & Monitor Service Rate/ Availability Rate for all the 'A' products after performing ABC Analysis as 'A' products generate higher revenue.
+Let the 'B' and 'C' product have less(also acceptable) service rates so company will stay in profit. Don't target 'C' products to have 100% service rate as its not good for the company.
+
+d. Automate your report with connecting to your ERP.
+ 
+
+
+
+
