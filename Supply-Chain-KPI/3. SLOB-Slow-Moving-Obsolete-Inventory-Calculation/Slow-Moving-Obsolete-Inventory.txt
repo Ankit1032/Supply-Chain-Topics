@@ -1,0 +1,29 @@
+
+The idea is to track this KPI and make sure that you have as little obsolete and slow moving stocks as possible.
+
+SLOB : SLow moving and OBsolete products
+
+% of SLOB = Quality of your inventory.
+The lower, the better
+
+#Obsolete inventory( Discontinued inventory)
+	-Expired Meds
+	-Expired Milk
+	-Almost Black-skin banana
+	-Summer dresses in Winter season
+	-Winter clothes in Summer season
+	
+
+#Slow Moving Inventoryp(Excess / Aged/ Leftover inventory)
+	- Suppose you need 4 nike shoes to obtain 98% service. But you currently have 24 nike shoes which is excess inventory and its unecessary and also adding holding and logistics costs.
+	- If the extra nike shoes doesn't sell, you might have to do a future discount or promotion.
+	
+#Always make sure to track/monitor %of active stocks and %of obsolete stocks and make sure %obsolete is as low as possible
+
+#To go much deeper, you need to check the lead time , SS and ROP of each product to understand which slow moving stock need to be monitored more or less.
+
+#reduce SLOB and improve service.
+
+
+
+
