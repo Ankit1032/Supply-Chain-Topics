@@ -1,0 +1,91 @@
+Lead Time Action
+1. Track
+2. Stabilize
+3. Reduce
+
+#Wrong Lead Time impacts
+	-Poor Visibility
+	-Poor Service
+	-Over Stock
+	-Extra Costs
+	
+#Safety Stock and Re-Order point extensively depends upon Lead Time Acuuracy so if Lead Time is impacted, then SS and ROP will also get impacted. If Lead Time increases, Safety stock and re-order point also increases which is bad and adds extra costs.
+
+#Classic lead time mistakes
+	- companies not tracking lead time
+	- trusting your transporter/supplier contract lead time
+	- you only focus on transport lead time
+	- you don't consider outliers
+	- you only care about the average lead time
+	- you want to reduce lead time before stabilizing
+	
+#Supply chain lead time is the amount of time between a client order and the delivery.
+
+Business to Business/Consumer (Client)
+
+#Types of Lead Time
+1. Review Period lead time
+2. Production lead time
+3. International Transport lead time
+4. Warehouse lead time
+5. Local Delivery lead time
+
+1. REVIEW PERIOD
+-Suppose you have a retail company where you order every Tuesday to the supplier. And you need stocks on Thursday but you will have to wait until Tuesday to order so there's 5 days of lead time already(Waiting period for stocks).
+
+2. IT Confirmation Lead Time
+- Suppose you work in FMCG and it takes 4-6 hours to process an order so 4-6 hours also adds up to the lead time.
+
+3. Production Lead Time
+a. MTS Lead Time
+	-"Products are finishes and stored before receipt of customer's order"
+	- So the FGI(Finished goods inventory) will stay in warehouse or DC with no shipping unless it is ordered by a consumer or retail.
+
+	-Make-to-stock (MTS) is a manufacturing strategy in which production planning and production scheduling are based on forecasted product demand.
+	The make-to-stock strategy might be used by companies that produce goods that tend to be particularly popular during the holiday season. For instance, a toy manufacturer would forecast consumer demand and produce products accordingly.
+	
+b. ATO(Assemble-To-Order)
+	- "Products is assembled after receipt of a customer's order, using subassembly inventory and semi-finished products".
+	
+	- So the assembling of the semi-manufactured products add to the lead time.
+	
+	- ATO stands for "Assemble-to-Order." Assemble-to-Order is a manufacturing strategy in which a company produces a base product or set of components in advance and then assembles them into finished goods only after a customer order is received.
+	
+	- In an ATO supply chain, the base product or components are often referred to as "pre-manufactured modules" or "semi-finished goods." These modules can be combined in different ways to create a variety of finished products that meet specific customer requirements.
+
+c. MTO(Make-To-Order)
+	- "Product is manufactured after receipt of a customer's order"
+	
+	- So the Production adds up to the lead time.
+	
+d. ETO (Engineer-TO-Order)
+	- "Customer Specifications require unique engineering design, customization, or new purchased materials.
+	
+4. International Transport Lead Time
+a. Waiting Shipping : 
+	Suppose the product is ready to ship on thursday but the SEA-FREIGHT SHIP travels once a week(eveny tuesday) , so 5 days is added to the lead time.
+
+b. Customs Clearance : 
+	This depends on the type of products you have, also from whr its coming(Consignor) and also whr its going(Consignee).
+	
+5. Warehouse Lead Time
+	- It can be warehouse lead time on your factory or it can be inside your warehouse too.
+	
+	Lead time of warehouse can be between :
+		- Supplier to reception(SIFOT)
+		- Reception to Storage
+		- Storage to Picking/Packing
+		- Picking/Packing to Waiting&Shipping
+		- Waiting&Shipping to Customer(DIF/DIFOT)
+		
+6. Local Transport Lead time8
+
+
+#Note : Use Dynamic Safety Stock
+
+
+
+
+
+
+	
